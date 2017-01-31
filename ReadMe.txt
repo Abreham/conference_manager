@@ -25,11 +25,6 @@ Usage
            |lib
              -junit.jar
              -hamcrest.jar
-
-	 - change to the root of the project :#cd conference-tracking-manaement
-	 - go to library ------------------- :#cd lib
-	 - download junit:  --------------- #wget http://central.maven.org/maven2/junit/junit/4.12/junit-4.12.jar
-	 - download hamcrest----------------#wget http://central.maven.org/maven2/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar
   
  = run Integration test and unit tests
  

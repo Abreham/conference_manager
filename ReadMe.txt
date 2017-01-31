@@ -3,7 +3,7 @@ About
 program-scheduler is Java program that helps to organize a programming conferences.
 Several proposal which have passed the initial screening process will be scheduled 
 fitting all the many possible talks/presentation into a session/s which have an efficient time
-output.
+output (Thoughtworks exercise).
 
 Use cases/Scenario
 ===================
@@ -30,8 +30,10 @@ Usage
  
 Library
 ==========
+requirement underlines using few library, but frameworks like spring are not allowed. 
+
 I have used both junit-4.12.jar and hamcrest-all-1.3.jar, 
-this jars are only for testing,they are not package with submission.   
+this jars are only for testing.   
 
 Domain
 ===================
